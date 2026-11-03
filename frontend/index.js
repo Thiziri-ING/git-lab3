@@ -1,0 +1,1 @@
+renderApp(document.getElementById("app"));
